@@ -10,19 +10,19 @@ A curated list of research papers on diffusion models that I've read, organized 
 
 ## Theoretical Foundations
 - **Title**: [Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2006.11239)  
-  **Authors**: Jonathan Ho, Ajay Jain, Pieter Abbeel 
-  **Year**: 2020   
-  **Notes**: The foundational paper introducing DDPM, a groundbreaking work in diffusion models.
+**Authors**: Jonathan Ho, Ajay Jain, Pieter Abbeel 
+**Year**: 2020   
+**Notes**: The foundational paper introducing DDPM, a groundbreaking work in diffusion models.
 
 - **Title**: [Denoising Diffusion Implicit Models](https://arxiv.org/abs/2010.02502)  
-  **Authors**: Jiaming Song, Chenlin Meng, Stefano Ermon 
-  **Year**: 2020
-  **Notes**: Proposes DDIM, a method to accelerate sampling in diffusion models.
+**Authors**: Jiaming Song, Chenlin Meng, Stefano Ermon 
+**Year**: 2020
+**Notes**: Proposes DDIM, a method to accelerate sampling in diffusion models.
 
 - **Title**: [Score-Based Generative Modeling through Stochastic Differential Equations](https://arxiv.org/abs/2011.13456)  
-  **Authors**: Yang Song, Jascha Sohl-Dickstein, Diederik P. Kingma, Abhishek Kumar, Stefano Ermon, Ben Poole  
-  **Year**: 2020  
-  **Notes**: Unifies diffusion models and score-based generative models under SDE framework.
+**Authors**: Yang Song, Jascha Sohl-Dickstein, Diederik P. Kingma, Abhishek Kumar, Stefano Ermon, Ben Poole  
+**Year**: 2020  
+**Notes**: Unifies diffusion models and score-based generative models under SDE framework.
 
 ## Image Generation
 - **Title**: [High-Resolution Image Synthesis with Latent Diffusion Models](https://arxiv.org/abs/2112.10752)  
