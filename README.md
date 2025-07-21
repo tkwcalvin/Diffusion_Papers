@@ -10,7 +10,7 @@ A curated list of research papers on diffusion models that I've read, organized 
 
 ## Theoretical Foundations
 - **Title**: [Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2006.11239)  
-**Authors**: Jonathan Ho, Ajay Jain, Pieter Abbeel 
+**Authors**: Jonathan Ho, Ajay Jain, Pieter Abbeel  
 **Year**: 2020   
 **Notes**: The foundational paper introducing DDPM, a groundbreaking work in diffusion models.
 
