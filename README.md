@@ -106,6 +106,10 @@ A curated list of research papers on diffusion models that I've read, organized 
 **Authors**: Luyang Zhu, Dawei Yang, Tyler Zhu, Fitsum Reda, William Chan, Chitwan Saharia, Mohammad Norouzi, Ira Kemelmacher-Shlizerman
 **Year**: 2023 
 
+- **Title**: [ELLA: Equip Diffusion Models with LLM for Enhanced Semantic Alignment](https://arxiv.org/abs/2403.05135)  
+**Authors**: Xiwei Hu, Rui Wang, Yixiao Fang, Bin Fu, Pei Cheng, Gang Yu
+**Year**: 2024
+
 
 
 
