@@ -7,6 +7,7 @@ A curated list of research papers on diffusion models that I've read, organized 
 - [Theoretical Foundations](#theoretical-foundations)
 - [Image Generation](#image-generation)
 - [Image Editing](#image-editing)
+- [Training Improvement](#training-improvement)
 
 ## Theoretical Foundations
 - **Title**: [Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2006.11239)  
@@ -116,6 +117,10 @@ A curated list of research papers on diffusion models that I've read, organized 
 **Authors**: Xiwei Hu, Rui Wang, Yixiao Fang, Bin Fu, Pei Cheng, Gang Yu
 **Year**: 2024
 
+- **Title**: [InstaFlow: One Step is Enough for High-Quality Diffusion-Based Text-to-Image Generation](https://arxiv.org/abs/2309.06380)  
+**Authors**: Xingchao Liu, Xiwen Zhang, Jianzhu Ma, Jian Peng, Qiang Liu
+**Year**: 2023
+
 ## Training Improvement
 
 - **Title**: [Analyzing and Improving the Training Dynamics of Diffusion Models](https://arxiv.org/abs/2312.02696)  
@@ -123,9 +128,7 @@ A curated list of research papers on diffusion models that I've read, organized 
 **Year**: 2023
 
 
-- **Title**: [InstaFlow: One Step is Enough for High-Quality Diffusion-Based Text-to-Image Generation](https://arxiv.org/abs/2309.06380)  
-**Authors**: Xingchao Liu, Xiwen Zhang, Jianzhu Ma, Jian Peng, Qiang Liu
-**Year**: 2023
+
 
 
 
