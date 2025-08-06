@@ -24,6 +24,12 @@ A curated list of research papers on diffusion models that I've read, organized 
 **Year**: 2020  
 **Notes**: Unifies diffusion models and score-based generative models under SDE framework.
 
+- **Title**: [Improved Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2102.09672)  
+**Authors**: Alex Nichol, Prafulla Dhariwal 
+**Year**: 2021 
+**Notes**: Introduce hybrid learning objective, reducing sampling times
+
+
 ## Image Generation
 - **Title**: [High-Resolution Image Synthesis with Latent Diffusion Models](https://arxiv.org/abs/2112.10752)  
 **Authors**: Robin Rombach, Andreas Blattmann, Dominik Lorenz, Patrick Esser, Björn Ommer
@@ -109,6 +115,16 @@ A curated list of research papers on diffusion models that I've read, organized 
 - **Title**: [ELLA: Equip Diffusion Models with LLM for Enhanced Semantic Alignment](https://arxiv.org/abs/2403.05135)  
 **Authors**: Xiwei Hu, Rui Wang, Yixiao Fang, Bin Fu, Pei Cheng, Gang Yu
 **Year**: 2024
+
+- **Title**: [Analyzing and Improving the Training Dynamics of Diffusion Models](https://arxiv.org/abs/2312.02696)  
+**Authors**: Tero Karras, Miika Aittala, Jaakko Lehtinen, Janne Hellsten, Timo Aila, Samuli Laine
+**Year**: 2023
+
+
+- **Title**: [InstaFlow: One Step is Enough for High-Quality Diffusion-Based Text-to-Image Generation](https://arxiv.org/abs/2309.06380)  
+**Authors**: Xingchao Liu, Xiwen Zhang, Jianzhu Ma, Jian Peng, Qiang Liu
+**Year**: 2023
+
 
 
 
