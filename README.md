@@ -116,6 +116,8 @@ A curated list of research papers on diffusion models that I've read, organized 
 **Authors**: Xiwei Hu, Rui Wang, Yixiao Fang, Bin Fu, Pei Cheng, Gang Yu
 **Year**: 2024
 
+## Training Improvement
+
 - **Title**: [Analyzing and Improving the Training Dynamics of Diffusion Models](https://arxiv.org/abs/2312.02696)  
 **Authors**: Tero Karras, Miika Aittala, Jaakko Lehtinen, Janne Hellsten, Timo Aila, Samuli Laine
 **Year**: 2023
