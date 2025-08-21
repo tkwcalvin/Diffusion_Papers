@@ -48,7 +48,6 @@ A curated list of research papers on diffusion models that I've read, organized 
 **Year**: 2022  
 **Notes**: Pioneering text-to-image model from OpenAI, combining diffusion with CLIP.
 
-## Image Editing
 - **Title**: [Diffusion Models Beat GANs on Image Synthesis](https://arxiv.org/abs/2105.05233)  
 **Authors**: Prafulla Dhariwal, Alex Nichol
 **Year**: 2021  
