@@ -6,7 +6,6 @@ A curated list of research papers on diffusion models that I've read, organized 
 ## Table of Contents
 - [Theoretical Foundations](#theoretical-foundations)
 - [Image Generation](#image-generation)
-- [Image Editing](#image-editing)
 - [Training Improvement](#training-improvement)
 
 ## Theoretical Foundations
