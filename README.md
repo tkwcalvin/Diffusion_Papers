@@ -7,6 +7,7 @@ A curated list of research papers on diffusion models that I've read, organized 
 - [Theoretical Foundations](#theoretical-foundations)
 - [Image Generation](#image-generation)
 - [Training Improvement](#training-improvement)
+- [Human Feedback](#human-feedback)
 
 ## Theoretical Foundations
 - **Title**: [Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2006.11239)  
@@ -123,6 +124,22 @@ A curated list of research papers on diffusion models that I've read, organized 
 
 - **Title**: [Analyzing and Improving the Training Dynamics of Diffusion Models](https://arxiv.org/abs/2312.02696)  
 **Authors**: Tero Karras, Miika Aittala, Jaakko Lehtinen, Janne Hellsten, Timo Aila, Samuli Laine
+**Year**: 2023
+
+## Human Feedback
+
+- **Title**: [Rich Human Feedback for Text-to-Image Generation](https://arxiv.org/abs/2312.10240)  
+**Authors**: Youwei Liang, Junfeng He, etc
+**Year**: 2023
+
+
+- **Title**: [ImageReward: Learning and Evaluating Human Preferences for Text-to-Image Generation](https://arxiv.org/abs/2304.05977)  
+**Authors**: Jiazheng Xu, Xiao Liu, Yuchen Wu, Yuxuan Tong, Qinkai Li, Ming Ding, Jie Tang, Yuxiao Dong
+**Year**: 2023
+
+
+- **Title**: [Pick-a-Pic: An Open Dataset of User Preferences for Text-to-Image Generation](https://arxiv.org/abs/2305.01569)  
+**Authors**: Yuval Kirstain, Adam Polyak, Uriel Singer, Shahbuland Matiana, Joe Penna, Omer Levy
 **Year**: 2023
 
 
